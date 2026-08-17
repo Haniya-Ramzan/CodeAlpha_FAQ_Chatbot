@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What are the hospital opening hours?",
+        "answer": "MediCare Hospital is open 24 hours a day, 7 days a week."
+    },
+    {
+        "question": "How can I book an appointment?",
+        "answer": "You can book an appointment by contacting the hospital reception or using the online appointment system."
+    },
+    {
+        "question": "Do I need an appointment to see a doctor?",
+        "answer": "Appointments are recommended for regular consultations, but emergency patients can receive immediate medical attention."
+    },
+    {
+        "question": "How can I cancel my appointment?",
+        "answer": "You can cancel your appointment by contacting the hospital reception and providing your appointment details."
+    },
+    {
+        "question": "What departments are available at the hospital?",
+        "answer": "MediCare Hospital provides departments including Emergency, Cardiology, Neurology, Pediatrics, General Medicine, Surgery, and Radiology."
+    },
+    {
+        "question": "Does the hospital have an emergency department?",
+        "answer": "Yes. MediCare Hospital provides emergency medical services 24 hours a day."
+    },
+    {
+        "question": "How can I contact the hospital?",
+        "answer": "You can contact MediCare Hospital through the reception desk or the official hospital contact channels."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "The hospital accepts common payment methods including cash, debit cards, and credit cards."
+    },
+    {
+        "question": "How can I get my medical report?",
+        "answer": "You can collect your medical report from the hospital's medical records department or follow the hospital's report delivery procedure."
+    },
+    {
+        "question": "Where is the hospital located?",
+        "answer": "MediCare Hospital is located at its registered hospital premises. Please contact reception for the exact location and directions."
+    },
+    {
+        "question": "Does the hospital provide laboratory services?",
+        "answer": "Yes. MediCare Hospital provides laboratory and diagnostic testing services."
+    },
+    {
+        "question": "Does the hospital have an ICU?",
+        "answer": "Yes. The hospital has an Intensive Care Unit for patients who require critical care and continuous monitoring."
+    },
+    {
+        "question": "Does the hospital have an operation theatre?",
+        "answer": "Yes. MediCare Hospital has operation theatre facilities for surgical procedures."
+    },
+    {
+        "question": "Are specialist doctors available?",
+        "answer": "Yes. The hospital provides access to doctors and specialists from different medical departments."
+    },
+    {
+        "question": "Does the hospital provide pediatric care?",
+        "answer": "Yes. Pediatric services are available for the medical care of children."
+    },
+    {
+        "question": "Can I visit a patient in the hospital?",
+        "answer": "Patient visiting is allowed according to the hospital's visiting hours and visitor policies."
+    },
+    {
+        "question": "How do I find a doctor?",
+        "answer": "You can contact the reception or use the hospital's doctor information service to find a suitable doctor."
+    },
+    {
+        "question": "Does the hospital provide diagnostic services?",
+        "answer": "Yes. The hospital provides diagnostic services including laboratory and other medical tests."
+    },
+    {
+        "question": "Can I get emergency treatment without an appointment?",
+        "answer": "Yes. Emergency patients can receive emergency medical attention without a prior appointment."
+    },
+    {
+        "question": "How do I reschedule my appointment?",
+        "answer": "Contact the hospital reception and provide your appointment details to request a new appointment time."
+    }
+]
