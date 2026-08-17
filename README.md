@@ -90,7 +90,7 @@ Return best matching FAQ answer
         ↓
 Display response in GUI
 
-📂 Project Structure
+**📂 Project Structure**
 
 CodeAlpha_FAQ_Chatbot/
 │
@@ -132,7 +132,7 @@ Diagnostic services
 
 Prevents unnecessary files such as the Python virtual environment from being uploaded to GitHub.
 
-⚙️ Requirements
+**⚙️ Requirements**
 
 Make sure Python is installed on your computer.
 
@@ -141,7 +141,7 @@ nltk
 scikit-learn
 Tkinter is used for the GUI.
 
-🚀 Installation and Setup
+**🚀 Installation and Setup**
 1. Clone the Repository
 git clone https://github.com/Haniya-Ramzan/CodeAlpha_FAQ_Chatbot.git
 2. Open the Project Folder
@@ -168,7 +168,7 @@ Does the hospital have an emergency department?
 What departments are available at the hospital?
 Are specialist doctors available?
 
-🔍 Similarity Matching
+**🔍 Similarity Matching**
 
 The chatbot uses:
 
@@ -184,7 +184,7 @@ The chatbot identifies the FAQ with the highest similarity score.
 
 A minimum similarity threshold is also used. If the similarity score is too low, the chatbot provides a fallback response instead of returning an unrelated answer.
 
-🖥️ User Interface
+**🖥️ User Interface**
 
 The chatbot includes a graphical interface built using Tkinter.
 
@@ -198,7 +198,7 @@ Send button
 Quick question buttons
 Clear chat option
 Online status indicator
-🧪 Testing
+**🧪 Testing**
 
 The chatbot was tested using different hospital-related questions.
 
@@ -224,7 +224,7 @@ Yes. The hospital has an Intensive Care Unit for patients who require critical c
 
 The chatbot also provides a fallback response when a question does not have a sufficiently similar FAQ match.
 
-🎓 Internship Task
+**🎓 Internship Task**
 
 This project was developed as part of:
 
@@ -240,23 +240,16 @@ Similarity-based FAQ matching
 Cosine Similarity
 Chatbot response generation
 User interaction through a chatbot interface
-👩‍💻 Author
+**👩‍💻 Author**
 
-Haniya Ramzan
+**Haniya Ramzan**
 
 Artificial Intelligence Intern
 CodeAlpha
 
-📜 License
+**📜 License**
 This project was created for educational and internship purposes.
 
 
 
-### One important thing before you commit
 
-
-Your README currently uses your GitHub repository URL:
-
-
-```text
-https://github.com/Haniya-Ramzan/CodeAlpha_FAQ_Chatbot
